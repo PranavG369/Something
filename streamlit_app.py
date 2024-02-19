@@ -112,7 +112,7 @@ particles = [
         symbol="f",
         description="A particle that follows Fermi-Dirac statistics and obeys the Pauli exclusion principle.",
         image_path="fermion.jpg",
-        animation_path="fermion.gif",
+        animation_path="fermions.gif",
         discoverer="Enrico Fermi and Paul Dirac",
         uses="Fundamental building blocks of matter and play a central role in the structure of atoms and molecules."
     ),
